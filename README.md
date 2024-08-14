@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Naresh-JustPing
+# 👋 Hi, I’m @Naresh Gohil
 
 ### 🚀 About Me
 I’m a Backend Developer with **1.6 years of experience**. I have a strong foundation in **Node.js, JavaScript, and ES6+**, and I’ve successfully handled and started the **"Just Ping"** project from scratch. My focus is on creating efficient, scalable, and high-performing backend systems.
@@ -25,4 +25,4 @@ I’m a Backend Developer with **1.6 years of experience**. I have a strong foun
 - 🛠️ **Challenging projects** that help me grow and improve my skills.
 
 ### 📫 How to Reach Me
-- 📧 Email: naresh.justping@example.com
+- 📧 Email: naresh.gohil@justping.ai
